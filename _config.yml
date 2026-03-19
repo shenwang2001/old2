@@ -27,10 +27,10 @@ author:
   name             : "Shen Wang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  # location         : "Earth"
+  # employer         : "Red Brick University"
+  # uri              : # URL
+  email            : "ws9939@outlook.com" 
 
   # Academic websites
   academia         : https://shenwang2001.github.io/
